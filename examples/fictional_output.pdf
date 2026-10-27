@@ -1,0 +1,417 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 3
+/Kids [ 3 0 R 8 0 R 10 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+[ 14 0 R 15 0 R ]
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F1-0 13 0 R
+/F1-1 16 0 R
+/F1-2 19 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+[ 17 0 R 18 0 R ]
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+11 0 obj
+[ 20 0 R 21 0 R ]
+endobj
+12 0 obj
+<<
+/Author (anonymous)
+/CreationDate (D\07220261027090240\05301\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220261027090240\05301\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (unspecified)
+/Title (untitled)
+/Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Length 669
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 19 Tf 22.8 TL ET
+.05 .27 .39 rg
+BT 1 0 0 1 56 770 Tm (FICTIONAL SAMPLE DOCUMENT) Tj T* ET
+0 0 0 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 56 710 Tm (This document contains invented text for a PDF footer demonstration.) Tj T* ET
+BT 1 0 0 1 56 690 Tm (It is an independent sample and is not a real engineering specification.) Tj T* ET
+BT 1 0 0 1 56 670 Tm (Example unit A17 has a fictional value of 42 units.) Tj T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 56 615 Tm (Sample section 1) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 56 590 Tm (The footer will be added to the blank area near the bottom of this page.) Tj T* ET
+ 
+
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/Length 430
+>>
+stream
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+0 0 0 rg
+0.64 0.64 0.64 RG
+0.45 w
+n
+57 52 m
+538.2756 52 l
+S
+n
+57 27 m
+538.2756 27 l
+S
+n
+425.2756 27 m
+425.2756 52 l
+S
+BT
+1 0 0 1 62 36 Tm
+(Doc\056 number\072) Tj
+T*
+ET
+BT
+1 0 0 1 128 36 Tm
+(2342340\055EXP\055PRO\055BOD\0550001) Tj
+T*
+ET
+BT
+1 0 0 1 432.2756 36 Tm
+(Page\072) Tj
+T*
+ET
+BT
+1 0 0 1 470.2756 36 Tm
+(1 of 3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Length 669
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 19 Tf 22.8 TL ET
+.05 .27 .39 rg
+BT 1 0 0 1 56 770 Tm (FICTIONAL SAMPLE DOCUMENT) Tj T* ET
+0 0 0 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 56 710 Tm (This document contains invented text for a PDF footer demonstration.) Tj T* ET
+BT 1 0 0 1 56 690 Tm (It is an independent sample and is not a real engineering specification.) Tj T* ET
+BT 1 0 0 1 56 670 Tm (Example unit A17 has a fictional value of 42 units.) Tj T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 56 615 Tm (Sample section 2) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 56 590 Tm (The footer will be added to the blank area near the bottom of this page.) Tj T* ET
+ 
+
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/Length 430
+>>
+stream
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F1-1 9 Tf
+10.8 TL
+ET
+0 0 0 rg
+0.64 0.64 0.64 RG
+0.45 w
+n
+57 52 m
+538.2756 52 l
+S
+n
+57 27 m
+538.2756 27 l
+S
+n
+425.2756 27 m
+425.2756 52 l
+S
+BT
+1 0 0 1 62 36 Tm
+(Doc\056 number\072) Tj
+T*
+ET
+BT
+1 0 0 1 128 36 Tm
+(2342340\055EXP\055PRO\055BOD\0550001) Tj
+T*
+ET
+BT
+1 0 0 1 432.2756 36 Tm
+(Page\072) Tj
+T*
+ET
+BT
+1 0 0 1 470.2756 36 Tm
+(2 of 3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/Length 669
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 19 Tf 22.8 TL ET
+.05 .27 .39 rg
+BT 1 0 0 1 56 770 Tm (FICTIONAL SAMPLE DOCUMENT) Tj T* ET
+0 0 0 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 56 710 Tm (This document contains invented text for a PDF footer demonstration.) Tj T* ET
+BT 1 0 0 1 56 690 Tm (It is an independent sample and is not a real engineering specification.) Tj T* ET
+BT 1 0 0 1 56 670 Tm (Example unit A17 has a fictional value of 42 units.) Tj T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 56 615 Tm (Sample section 3) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 56 590 Tm (The footer will be added to the blank area near the bottom of this page.) Tj T* ET
+ 
+
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Length 430
+>>
+stream
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+BT
+/F1-2 9 Tf
+10.8 TL
+ET
+0 0 0 rg
+0.64 0.64 0.64 RG
+0.45 w
+n
+57 52 m
+538.2756 52 l
+S
+n
+57 27 m
+538.2756 27 l
+S
+n
+425.2756 27 m
+425.2756 52 l
+S
+BT
+1 0 0 1 62 36 Tm
+(Doc\056 number\072) Tj
+T*
+ET
+BT
+1 0 0 1 128 36 Tm
+(2342340\055EXP\055PRO\055BOD\0550001) Tj
+T*
+ET
+BT
+1 0 0 1 432.2756 36 Tm
+(Page\072) Tj
+T*
+ET
+BT
+1 0 0 1 470.2756 36 Tm
+(3 of 3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000155 00000 n 
+0000000354 00000 n 
+0000000387 00000 n 
+0000000467 00000 n 
+0000000574 00000 n 
+0000000686 00000 n 
+0000000885 00000 n 
+0000000918 00000 n 
+0000001119 00000 n 
+0000001153 00000 n 
+0000001443 00000 n 
+0000001551 00000 n 
+0000002272 00000 n 
+0000002754 00000 n 
+0000002862 00000 n 
+0000003583 00000 n 
+0000004065 00000 n 
+0000004173 00000 n 
+0000004894 00000 n 
+trailer
+<<
+/Size 22
+/Root 1 0 R
+/Info 12 0 R
+/ID [ <d080a08a8a2403457c4aa799595f16ef> <d080a08a8a2403457c4aa799595f16ef> ]
+>>
+startxref
+5376
+%%EOF
